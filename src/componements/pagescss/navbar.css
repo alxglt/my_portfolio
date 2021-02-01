@@ -1,0 +1,29 @@
+.navbar {
+    padding: 20px;
+    display: flex;
+}
+.navbar-container {
+    margin-left: 50px;
+    min-width: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+.navbar-text {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.navbar-text:hover {
+    color: rgb(0, 47, 255);
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    margin: 0px;
+}
+

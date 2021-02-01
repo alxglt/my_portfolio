@@ -1,0 +1,58 @@
+.bio {
+    
+    
+    
+    border-left: 5px solid black; 
+    border-right: 5px solid black; 
+    display: flex;
+}
+
+.text_bio {
+    color: tan;
+    font-size: 25px;
+    font-family: "Copse";
+   font-weight: normal;
+   font-style: italic;
+   padding: 10px;
+}
+
+
+
+.presentation_bio {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.CV {
+    width: 450px;
+    min-width: 450px;
+    border-radius: 2%;
+    border: 5px solid black; 
+}
+
+.download_cv {
+    display: flex;
+    justify-content: center;
+}
+
+.fas, .fa-file-download {
+    margin-right: 10px;
+
+}
+
+.text_dl {
+    color: whitesmoke;
+    font-size: 25px;
+}
+
+.dl_link {
+    color: #bf8c8c;
+    padding: 5px;
+    font-size: 45px;
+}
+
+.dl_link:hover {
+    color: white
+}

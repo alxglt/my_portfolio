@@ -1,0 +1,38 @@
+.presentation {
+    display: flex;
+    margin-top: 200px;
+    
+}
+
+.intro {
+    margin-top: 68px;
+    margin-left: 150px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.first {
+    font-size: 24px;
+
+}
+
+.name {
+    font-size: 37px;
+    font-family: Montserrat,"Open Sans","Helvetica Neue",Helvetica,sans-serif;
+    color: #91ccff;
+}
+
+.job {
+    color: #b0aa9f;
+    font-size: 27px;
+}
+
+.pp {
+    width: 130%;
+    height: 100%;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+    margin-left: 90%;
+}
+
