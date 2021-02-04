@@ -1,12 +1,13 @@
 import React from 'react'
-import '../pagescss/presentation.css'
-
+import '../pagescss/presentation.css' 
 
 function Presentation() {
     return (
         <>
-            <div className="presentation_bio" id="presentation">
-                <div className="bio">
+            
+                <div className="presentation_bio" id="presentation">
+                <div data-aos="fade-up" className="bio" id="bio">
+          
                     <p className="text_bio">
                     En 2020, j'ai eu mon baccalauréat S, option SVT, spécialité ISN,avec mention.
                     </p>
@@ -32,10 +33,11 @@ function Presentation() {
             <div className="download_cv">
                 <p className="text_dl">Téléchargez mon Cv ! </p>
                 <a href="" download className="dl_link">
-                    <i class="fas fa-file-download"></i>
+                    <i className="fas fa-file-download"></i>
                 </a>
                
             </div>
+            
         </>
     )
 }

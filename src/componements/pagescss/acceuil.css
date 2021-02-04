@@ -1,6 +1,7 @@
 .presentation {
     display: flex;
     margin-top: 200px;
+    margin-bottom: 500px;
     
 }
 
@@ -20,6 +21,7 @@
     font-family: Montserrat,"Open Sans","Helvetica Neue",Helvetica,sans-serif;
     color: #91ccff;
 }
+
 
 .job {
     color: #b0aa9f;

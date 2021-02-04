@@ -7,12 +7,13 @@ function Acceuil() {
 
     <>
         <div className="presentation">
+
           <div className="intro">
-            
-            <p className="name">Alexis Gillant</p>
-            <p className="job">Développeur Web</p>
+            <p data-aos="fade-right" data-aos-delay="50" className="name">Alexis Gillant</p>
+            <p data-aos="fade-right" className="job">Développeur Web</p>
           </div>
-          <div className="me">
+          
+          <div className="me" data-aos="zoom-out">
               <img src={pp} alt="profile_picture" className="pp"/>
           </div>
             
