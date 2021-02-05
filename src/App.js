@@ -1,18 +1,20 @@
 import './App.css';
-import React, { Component } from 'react'
+import React from 'react'
 import Navbar from './componements/pages/navbar';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
 import Presentation from './componements/pages/presentation';
 import Acceuil from './componements/pages/acceuil';
 import "./componements/Script/scrollscript.js" ;
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import Projets from './componements/pages/projets';
+
+
 AOS.init({
-
   delay: 300,
-
-
 });
+
+
 function App()  {
   return (
     <>
@@ -23,6 +25,7 @@ function App()  {
               <Navbar />
               <Acceuil />
               <Presentation />
+              <Projets />
           </Router>
       </div>
     </>

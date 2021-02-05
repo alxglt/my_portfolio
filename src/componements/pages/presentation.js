@@ -1,5 +1,6 @@
-import React from 'react'
-import '../pagescss/presentation.css' 
+import React from 'react';
+import '../pagescss/presentation.css' ;
+import cv from '../img/CV_Alexis_Gillant.pdf';
 
 function Presentation() {
     return (
@@ -30,12 +31,12 @@ function Presentation() {
                     </p>
                 </div>
             </div>
-            <div className="download_cv">
-                <p className="text_dl">Téléchargez mon Cv ! </p>
-                <a href="" download className="dl_link">
+            <div data-aos="fade-up" className="download_cv">
+                <p className="text_dl"> </p>
+                <a href={cv} download className="dl_link">
+                    Téléchargez mon Cv !
                     <i className="fas fa-file-download"></i>
                 </a>
-               
             </div>
             
         </>

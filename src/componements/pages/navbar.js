@@ -1,6 +1,5 @@
-import React  from 'react'
-import { Link } from 'react-router-dom'
-import '../pagescss/navbar.css'
+import React  from 'react';
+import '../pagescss/navbar.css';
 
 function navbar() {
     return (
@@ -14,7 +13,7 @@ function navbar() {
                 <i className="far fa-user-circle"> </i> Présentation 
                 </a>
 
-                <a href='#test' className='navbar-text'>
+                <a href='#projets' className='navbar-text'>
                 <i className="fas fa-project-diagram"> </i> Projets 
                 </a>
 

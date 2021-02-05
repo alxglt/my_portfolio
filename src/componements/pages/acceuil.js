@@ -1,6 +1,6 @@
 import React from "react";
-import '../pagescss/acceuil.css'
-import pp from '../img/photo.jpg'
+import '../pagescss/acceuil.css';
+import pp from '../img/photo.jpg';
 
 function Acceuil() {
   return (
