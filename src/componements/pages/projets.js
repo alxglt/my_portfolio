@@ -37,7 +37,7 @@ function projets() {
                     </a>
                 </section>
 
-                    </div>
+            </div>
               
            
         </>
