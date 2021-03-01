@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.a8cae025.chunk.css",
+    "main.css": "/my_portfolio/static/css/main.0942b544.chunk.css",
     "main.js": "/my_portfolio/static/js/main.8b4c1918.chunk.js",
     "main.js.map": "/my_portfolio/static/js/main.8b4c1918.chunk.js.map",
     "runtime-main.js": "/my_portfolio/static/js/runtime-main.d4094dbe.js",
@@ -12,7 +12,7 @@
     "static/js/3.ff148ac1.chunk.js.map": "/my_portfolio/static/js/3.ff148ac1.chunk.js.map",
     "index.html": "/my_portfolio/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/my_portfolio/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.a8cae025.chunk.css.map": "/my_portfolio/static/css/main.a8cae025.chunk.css.map",
+    "static/css/main.0942b544.chunk.css.map": "/my_portfolio/static/css/main.0942b544.chunk.css.map",
     "static/js/2.bff7bf2b.chunk.js.LICENSE.txt": "/my_portfolio/static/js/2.bff7bf2b.chunk.js.LICENSE.txt",
     "static/media/CV_Alexis_Gillant.12e7bad5.pdf": "/my_portfolio/static/media/CV_Alexis_Gillant.12e7bad5.pdf",
     "static/media/clicker_js.bac01112.PNG": "/my_portfolio/static/media/clicker_js.bac01112.PNG",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.d4094dbe.js",
     "static/css/2.ec02d681.chunk.css",
     "static/js/2.bff7bf2b.chunk.js",
-    "static/css/main.a8cae025.chunk.css",
+    "static/css/main.0942b544.chunk.css",
     "static/js/main.8b4c1918.chunk.js"
   ]
 }
