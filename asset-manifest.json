@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.0942b544.chunk.css",
-    "main.js": "/my_portfolio/static/js/main.8b4c1918.chunk.js",
-    "main.js.map": "/my_portfolio/static/js/main.8b4c1918.chunk.js.map",
-    "runtime-main.js": "/my_portfolio/static/js/runtime-main.d4094dbe.js",
-    "runtime-main.js.map": "/my_portfolio/static/js/runtime-main.d4094dbe.js.map",
+    "main.css": "/my_portfolio/static/css/main.6fd6a051.chunk.css",
+    "main.js": "/my_portfolio/static/js/main.a100aac7.chunk.js",
+    "main.js.map": "/my_portfolio/static/js/main.a100aac7.chunk.js.map",
+    "runtime-main.js": "/my_portfolio/static/js/runtime-main.c7e1c1f4.js",
+    "runtime-main.js.map": "/my_portfolio/static/js/runtime-main.c7e1c1f4.js.map",
     "static/css/2.ec02d681.chunk.css": "/my_portfolio/static/css/2.ec02d681.chunk.css",
-    "static/js/2.bff7bf2b.chunk.js": "/my_portfolio/static/js/2.bff7bf2b.chunk.js",
-    "static/js/2.bff7bf2b.chunk.js.map": "/my_portfolio/static/js/2.bff7bf2b.chunk.js.map",
-    "static/js/3.ff148ac1.chunk.js": "/my_portfolio/static/js/3.ff148ac1.chunk.js",
-    "static/js/3.ff148ac1.chunk.js.map": "/my_portfolio/static/js/3.ff148ac1.chunk.js.map",
+    "static/js/2.cfd61e99.chunk.js": "/my_portfolio/static/js/2.cfd61e99.chunk.js",
+    "static/js/2.cfd61e99.chunk.js.map": "/my_portfolio/static/js/2.cfd61e99.chunk.js.map",
+    "static/js/3.b9fd98fb.chunk.js": "/my_portfolio/static/js/3.b9fd98fb.chunk.js",
+    "static/js/3.b9fd98fb.chunk.js.map": "/my_portfolio/static/js/3.b9fd98fb.chunk.js.map",
     "index.html": "/my_portfolio/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/my_portfolio/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.0942b544.chunk.css.map": "/my_portfolio/static/css/main.0942b544.chunk.css.map",
-    "static/js/2.bff7bf2b.chunk.js.LICENSE.txt": "/my_portfolio/static/js/2.bff7bf2b.chunk.js.LICENSE.txt",
-    "static/media/CV_Alexis_Gillant.12e7bad5.pdf": "/my_portfolio/static/media/CV_Alexis_Gillant.12e7bad5.pdf",
+    "static/css/main.6fd6a051.chunk.css.map": "/my_portfolio/static/css/main.6fd6a051.chunk.css.map",
+    "static/js/2.cfd61e99.chunk.js.LICENSE.txt": "/my_portfolio/static/js/2.cfd61e99.chunk.js.LICENSE.txt",
+    "static/media/CV_Alexis_Gillant.807fbf24.pdf": "/my_portfolio/static/media/CV_Alexis_Gillant.807fbf24.pdf",
     "static/media/clicker_js.bac01112.PNG": "/my_portfolio/static/media/clicker_js.bac01112.PNG",
     "static/media/laravel_e-commerce.f540993b.PNG": "/my_portfolio/static/media/laravel_e-commerce.f540993b.PNG",
     "static/media/photo.44230f22.jpg": "/my_portfolio/static/media/photo.44230f22.jpg",
     "static/media/portfolio.63e6196a.PNG": "/my_portfolio/static/media/portfolio.63e6196a.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4094dbe.js",
+    "static/js/runtime-main.c7e1c1f4.js",
     "static/css/2.ec02d681.chunk.css",
-    "static/js/2.bff7bf2b.chunk.js",
-    "static/css/main.0942b544.chunk.css",
-    "static/js/main.8b4c1918.chunk.js"
+    "static/js/2.cfd61e99.chunk.js",
+    "static/css/main.6fd6a051.chunk.css",
+    "static/js/main.a100aac7.chunk.js"
   ]
 }
