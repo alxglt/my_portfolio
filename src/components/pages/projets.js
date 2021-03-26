@@ -9,7 +9,6 @@ function projets() {
     return (
         <>
             <div className="projects" id="projets">
-                
                 <section className="section_projects" data-aos="fade-zoom-in" data-aos-delay="50"> 
                     <a href="https://github.com/alxglt/E-commerce-Laravel" target="_blank" rel="noreferrer">
                         <img loading="lazy" src={laravel}  className="img" alt="my e-commerce website"/>
@@ -19,8 +18,7 @@ function projets() {
                         <span className="technos">MySQL </span>
                         <span className="technos">JavaScript </span>
                     </a>
-                </section>
-                        
+                </section>       
                 <section className="section_projects" data-aos="fade-zoom-in" data-aos-delay="80">
                     <a href="https://github.com/alxglt/Clicker-Games-JS" target="_blank" rel="noreferrer">
                         <img loading="lazy" src={clicker_js} className="img" alt="my clicker game"/>
@@ -28,7 +26,6 @@ function projets() {
                         <span className="technos"> JavaScript </span>
                     </a>
                 </section>
-
                 <section className="section_projects" data-aos="fade-zoom-in" data-aos-delay="500">
                     <a href="https://github.com/alxglt/my_portfolio" target="_blank" rel="noreferrer">
                         <img loading="lazy" src={portfolio} className="img" alt="my portfolio" />
@@ -36,10 +33,7 @@ function projets() {
                         <span className="technos">ReactJS</span>
                     </a>
                 </section>
-
-            </div>
-              
-           
+            </div> 
         </>
     )
 }

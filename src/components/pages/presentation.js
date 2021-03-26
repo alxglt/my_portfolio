@@ -5,10 +5,8 @@ import cv from '../img/CV_Alexis_Gillant.pdf';
 function Presentation() {
     return (
         <>
-            
-                <div className="presentation_bio" id="presentation">
+            <div className="presentation_bio" id="presentation">
                 <div data-aos="fade-up" className="bio" id="bio">
-          
                     <p className="text_bio">
                     En 2020, j'ai eu mon baccalauréat S, option SVT, spécialité ISN,avec mention.
                     </p>
@@ -38,7 +36,6 @@ function Presentation() {
                     <i className="fas fa-file-download"></i>
                 </a>
             </div>
-            
         </>
     )
 }
