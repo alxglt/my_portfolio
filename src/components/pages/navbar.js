@@ -12,7 +12,7 @@ function navbar() {
                     <a href='#projets' className='navbar-text'>
                         <i className="fas fa-project-diagram"> </i> Projets 
                     </a>
-                    <a href='#test' className='navbar-text'>
+                    <a href='#contact' className='navbar-text'>
                         <i className="far fa-id-card"> </i> Contact 
                     </a>
                 </div>

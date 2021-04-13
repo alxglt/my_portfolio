@@ -7,6 +7,7 @@ import Acceuil from './components/pages/acceuil';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import Projets from './components/pages/projets';
+import Contact from './components/pages/contact';
 
 AOS.init({
   delay: 300,
@@ -21,6 +22,7 @@ function App()  {
             <Acceuil />
             <Presentation />
             <Projets />
+            <Contact />
         </Router>
       </div>
     </>
