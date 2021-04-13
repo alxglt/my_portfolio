@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.6fd6a051.chunk.css",
-    "main.js": "/my_portfolio/static/js/main.a100aac7.chunk.js",
-    "main.js.map": "/my_portfolio/static/js/main.a100aac7.chunk.js.map",
-    "runtime-main.js": "/my_portfolio/static/js/runtime-main.c7e1c1f4.js",
-    "runtime-main.js.map": "/my_portfolio/static/js/runtime-main.c7e1c1f4.js.map",
+    "main.css": "/my_portfolio/static/css/main.519f5229.chunk.css",
+    "main.js": "/my_portfolio/static/js/main.5ab1150c.chunk.js",
+    "main.js.map": "/my_portfolio/static/js/main.5ab1150c.chunk.js.map",
+    "runtime-main.js": "/my_portfolio/static/js/runtime-main.d4094dbe.js",
+    "runtime-main.js.map": "/my_portfolio/static/js/runtime-main.d4094dbe.js.map",
     "static/css/2.ec02d681.chunk.css": "/my_portfolio/static/css/2.ec02d681.chunk.css",
-    "static/js/2.cfd61e99.chunk.js": "/my_portfolio/static/js/2.cfd61e99.chunk.js",
-    "static/js/2.cfd61e99.chunk.js.map": "/my_portfolio/static/js/2.cfd61e99.chunk.js.map",
-    "static/js/3.b9fd98fb.chunk.js": "/my_portfolio/static/js/3.b9fd98fb.chunk.js",
-    "static/js/3.b9fd98fb.chunk.js.map": "/my_portfolio/static/js/3.b9fd98fb.chunk.js.map",
+    "static/js/2.cfcd667a.chunk.js": "/my_portfolio/static/js/2.cfcd667a.chunk.js",
+    "static/js/2.cfcd667a.chunk.js.map": "/my_portfolio/static/js/2.cfcd667a.chunk.js.map",
+    "static/js/3.ff148ac1.chunk.js": "/my_portfolio/static/js/3.ff148ac1.chunk.js",
+    "static/js/3.ff148ac1.chunk.js.map": "/my_portfolio/static/js/3.ff148ac1.chunk.js.map",
     "index.html": "/my_portfolio/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/my_portfolio/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.6fd6a051.chunk.css.map": "/my_portfolio/static/css/main.6fd6a051.chunk.css.map",
-    "static/js/2.cfd61e99.chunk.js.LICENSE.txt": "/my_portfolio/static/js/2.cfd61e99.chunk.js.LICENSE.txt",
+    "static/css/main.519f5229.chunk.css.map": "/my_portfolio/static/css/main.519f5229.chunk.css.map",
+    "static/js/2.cfcd667a.chunk.js.LICENSE.txt": "/my_portfolio/static/js/2.cfcd667a.chunk.js.LICENSE.txt",
     "static/media/CV_Alexis_Gillant.807fbf24.pdf": "/my_portfolio/static/media/CV_Alexis_Gillant.807fbf24.pdf",
     "static/media/clicker_js.bac01112.PNG": "/my_portfolio/static/media/clicker_js.bac01112.PNG",
     "static/media/laravel_e-commerce.f540993b.PNG": "/my_portfolio/static/media/laravel_e-commerce.f540993b.PNG",
@@ -21,10 +21,10 @@
     "static/media/portfolio.63e6196a.PNG": "/my_portfolio/static/media/portfolio.63e6196a.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7e1c1f4.js",
+    "static/js/runtime-main.d4094dbe.js",
     "static/css/2.ec02d681.chunk.css",
-    "static/js/2.cfd61e99.chunk.js",
-    "static/css/main.6fd6a051.chunk.css",
-    "static/js/main.a100aac7.chunk.js"
+    "static/js/2.cfcd667a.chunk.js",
+    "static/css/main.519f5229.chunk.css",
+    "static/js/main.5ab1150c.chunk.js"
   ]
 }
