@@ -1,1 +1,1 @@
-This portfolio is on dev, it's not finished yet. 
+#### Mise en place d'un portfolio en ReactJS.
